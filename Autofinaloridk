@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/6255388f62e54856b59a833c6055b425"))()
+-- Voxter away skid
+
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/de3fa401ce7d4c4fa40ad234a136e9d0"))()
